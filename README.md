@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DianaMarp
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI AUTOMATION
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me ...
 
